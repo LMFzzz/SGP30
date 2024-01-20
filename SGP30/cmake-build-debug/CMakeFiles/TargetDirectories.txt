@@ -1,0 +1,3 @@
+D:/STM32Project/SGP30/cmake-build-debug/CMakeFiles/SGP30.elf.dir
+D:/STM32Project/SGP30/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/STM32Project/SGP30/cmake-build-debug/CMakeFiles/rebuild_cache.dir
